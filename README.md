@@ -1,2 +1,2 @@
-# deaf_dumb_translator
-Sign Language(ISL) to Speech Conversion Project 
+# Deaf_Dumb_translator
+Sign Language(ASL) to Speech Conversion Project 
